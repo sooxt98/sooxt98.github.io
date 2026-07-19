@@ -1,6 +1,7 @@
 google.com, pub-4966493280190110, DIRECT, f08c47fec0942fa0
 
-
+# Meta Ads
+facebook.com, 1993993427349119, DIRECT, c3e20eee3f780d68
 
 # Unity Ads
 adagio.io, 1522, RESELLER
